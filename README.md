@@ -108,6 +108,7 @@ com.garena.game.df
 com.garena.game.kgtw
 com.garena.game.kgvn
 com.garena.game.nfsm
+com.garena.game.kgth
 com.gbits.funnyfighter.android.overseas
 com.gryphline.endfield.gp
 com.gryphline.exastris.gp
